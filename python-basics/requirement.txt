@@ -1,2 +1,3 @@
 ipykernel
 streamlit
+scikit-learn
