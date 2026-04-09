@@ -13,13 +13,13 @@ model = tf.keras.models.load_model(model_path)
 # Load the model
 # model = tf.keras.models.load_model('model.h5')
 
-with open('label_encoder_gender.pkl', 'rb') as file:
+with open(os.path.join(BASE_DIR, 'label_encoder_gender.pkl'), 'rb') as file:
     label_encoder_gender = pickle.load(file)
 
-with open('one_hot_encoder_geo.pkl', 'rb') as file:
+with open(os.path.join(BASE_DIR, 'one_hot_encoder_geo.pkl'), 'rb') as file:
     geo_encoder = pickle.load(file)
 
-with open('scaler.pkl', 'rb') as file:
+with open(os.path.join(BASE_DIR, 'scaler.pkl'), 'rb') as file:
     scaler = pickle.load(file)
 
 # Streamlit app
