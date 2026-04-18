@@ -13,3 +13,4 @@ langchain-ollama
 sentence_transformers
 langchain-huggingface
 faiss-cpu
+langchain_chroma
