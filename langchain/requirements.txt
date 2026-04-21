@@ -15,3 +15,8 @@ langchain-huggingface
 faiss-cpu
 langchain_chroma
 langchain-classic
+langchain_groq
+uvicorn
+fastapi
+langserve
+sse_starlette
