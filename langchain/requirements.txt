@@ -22,3 +22,4 @@ langserve
 sse_starlette
 langchain-google-genai
 langgraph
+torchvision
