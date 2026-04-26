@@ -24,3 +24,4 @@ langchain-google-genai
 langgraph
 torchvision
 ddgs
+psycopg2
