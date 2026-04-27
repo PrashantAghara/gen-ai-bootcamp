@@ -25,3 +25,7 @@ langgraph
 torchvision
 ddgs
 psycopg2
+validators
+youtube-transcript-api
+pytube
+unstructured
