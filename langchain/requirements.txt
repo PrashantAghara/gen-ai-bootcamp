@@ -31,3 +31,9 @@ pytube
 unstructured
 numexpr
 huggingface_hub
+langchain-astradb
+astrapy
+datasets
+tiktoken
+pypdf2
+cassandra-driver
