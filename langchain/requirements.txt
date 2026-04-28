@@ -37,3 +37,4 @@ datasets
 tiktoken
 pypdf2
 cassandra-driver
+gradio
