@@ -8,7 +8,6 @@ arxiv
 PyMuPDF
 wikipedia
 langchain-text-splitters
-chromadb
 langchain-ollama
 sentence_transformers
 langchain-huggingface
@@ -39,3 +38,6 @@ pypdf2
 cassandra-driver
 gradio
 langchain_nvidia_ai_endpoints
+crewai
+crewai_tools
+pytubefix
