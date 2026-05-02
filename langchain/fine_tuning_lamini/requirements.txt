@@ -1,0 +1,7 @@
+langchain==0.2.12
+langchain-community==0.2.11
+langchain-core==0.2.30
+langchain_groq
+python-dotenv
+lamini
+langchain_experimental
